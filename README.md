@@ -11,3 +11,7 @@
 * [Google’s Data Science Interview Brain Teasers]:https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f
 [[Terence Shin-3] Google’s Data Science Interview Brain Teasers](https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f)
 
+
+## Product Questions
+
+* [Should a company implement a free trial? Should the free trial ask for credit card info? That is, at which point in the funnel should the highest friction point be introduced?](https://productds.com/wp-content/uploads/insights_case_study.html)
