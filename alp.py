@@ -1,4 +1,4 @@
-from __future__ import print_function
+rom __future__ import print_function
 import sys
 import math
 import numpy as np
